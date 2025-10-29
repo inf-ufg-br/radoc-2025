@@ -6,7 +6,7 @@
 🔵 Não é possível alterar o RADOC via a _interface_ de usuário do SICAD+.
 
 ## Favor clicar no botão abaixo para acessar o Portal de Instruções para Alimentação do RADOC/SICAD+:
-[![Painel Visão Geral](/media/readme-acesso-portal.jpg)](./doc/painel.md#painel-visao-geral/)
+[![Painel Visão Geral](./media/readme-acesso-portal.jpg)](./doc/painel.md#painel-visao-geral/)
 
 
 ---
