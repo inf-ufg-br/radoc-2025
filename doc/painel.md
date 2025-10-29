@@ -13,4 +13,4 @@
 
 
 Fim	&#9749;
-###### *by [Comissão INF/UFG para o RADOC 2025](./doc/x-index.md#comissão-radoc-2025)*
+###### *by [Comissão INF/UFG para o RADOC 2025](./x-index.md#comissão-radoc-2025)*
