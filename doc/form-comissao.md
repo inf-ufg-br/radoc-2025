@@ -7,17 +7,25 @@ O docente pode relatar suas DIFICULDADES sobre o RADOC/SICAD+, ou apresentar SUG
 
 |Nome|E-Mail|
 |-|-|
-|Ana Cláudia Bastos Loureiro Monção|anaclaudia@inf.ufg.br|
-|Antonio Carlos de Oliveira Júnior|antoniojr@ufg.br|
-|Deborah Silva Alves Fernandes|deborah.fernandes@ufg.br|
-|Deller James Ferreira **(Presidente)**|deller@ufg.br|
-|Hebert Coelho da Silva|hebert@ufg.br|
-|Juliana Pereira de Souza Zinader|juliana_souza@ufg.br|
-|Julliano Rosa Nascimento|jullianonascimento@ufg.br|
-|Luciana de Oliveira Berretta|luciana.berretta@ufg.br|
-|Márcia Rodrigues Cappelle Santana|mcappelle@ufg.br|
-|Nivaldo Pereira de Morais Júnior|nivaldomorais@ufg.br|
-|Renato de Freitas Bulcão Neto|rbulcao@ufg.br|
-|Sávio Salvarino Teles de Oliveira|savioteles@ufg.br|
+|ADAILTON FERREIRA DE ARAUJO|adailton@ufg.br|
+|ALDO ANDRE DIAZ SALAZAR|aldo.diaz@ufg.br|
+|ANA CLAUDIA BASTOS LOUREIRO MONÇÃO|acbloureiro@ufg.br|
+|ANTONIO CARLOS DE OLIVEIRA JUNIOR|antoniojr@ufg.br|
+|CRISTIANE BASTOS ROCHA FERREIRA|cristianebrf@ufg.br|
+|CASSIO LEONARDO RODRIGUES|cassio@ufg.br|
+|DEBORAH SILVA ALVES FERNANDES **(Presidente)**|deborah.fernandes@ufg.br|
+|DIRSON SANTOS DE CAMPOS|dirson_campos@ufg.br|
+|EVELLIN CRISTINE SOUZA CARDOSO|evellin@ufg.br|
+|ERIKA MORAIS MARTINS COELHO|erika_coelho@ufg.br|
+|GUSTAVO TEODORO LAUREANO|gustavolaureano@ufg.br|
+|JACSON RODRIGUES BARBOSA|jacson_rodrigues@ufg.br|
+|JULIANA PEREIRA DE SOUZA ZINADER|juliana_souza@ufg.br|
+|JULLIANO ROSA NASCIMENTO|jullianonascimento@ufg.br|
+|LEIZER DE LIMA PINTO|leizer@ufg.br|
+|LUCAS ARAUJO PEREIRA|apereiral@ufg.br|
+|MARCIA RODRIGUES CAPPELLE SANTANA|mcappelle@ufg.br|
+|NIVALDO PEREIRA DE MORAIS JUNIOR|nivaldomorais@ufg.br|
+|SAVIO SALVARINO TELES DE OLIVEIRA|savioteles@ufg.br|
+|VINICIUS DA CUNHA MARTINS BORGES|vcmborges@ufg.br|
 
 Fim &#9997;
