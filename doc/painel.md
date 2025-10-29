@@ -4,7 +4,7 @@
 
 <!--- [![](../media/painel-zero-apresentacao.jpg)](./lattes.md/) --->
 [Fluxo SICAD](./form-fluxos.md#fluxos-sicad/)
-[![](../media/painel-zero-apoio-institucional.png)](./form-apoio-institucional.md#apoio-institucional/)
+[Apoio Institucional](./form-apoio-institucional.md#apoio-institucional/)
 [![](../media/painel-zero-radoc.png)](./painel-radoc.md#painel-alimentar-o-radoc/)<br>
 [![](../media/painel-zero-perguntas-frequentes.png)](./form-perguntas-frequentes.md#perguntas-frequentes/)
 [![](../media/painel-zero-comissao.png)](./form-comissao.md#falar-com-a-comissão/)
