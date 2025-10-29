@@ -6,7 +6,7 @@
 [Fluxo SICAD](./form-fluxos.md#fluxos-sicad/)<br>
 [Apoio Institucional](./form-apoio-institucional.md#apoio-institucional/)<br>
 [Alimentar o RADOC](./painel-radoc.md#painel-alimentar-o-radoc/)<br>
-[![](../media/painel-zero-perguntas-frequentes.png)](./form-perguntas-frequentes.md#perguntas-frequentes/)
+[Perguntas](./form-perguntas-frequentes.md#perguntas-frequentes/)
 [![](../media/painel-zero-comissao.png)](./form-comissao.md#falar-com-a-comissão/)
 [![](../media/painel-zero-cronograma.png)](./form-cronograma.md#cronograma/)
 
