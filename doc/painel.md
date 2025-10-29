@@ -8,7 +8,7 @@
 [Alimentar o RADOC](./painel-radoc.md#painel-alimentar-o-radoc/)<br>
 [Perguntas](./form-perguntas-frequentes.md#perguntas-frequentes/)
 [Comissão](./form-comissao.md#falar-com-a-comissão/)
-[![](../media/painel-zero-cronograma.png)](./form-cronograma.md#cronograma/)
+<!--- [(../media/painel-zero-cronograma.png)](./form-cronograma.md#cronograma/)--->
 
 
 
