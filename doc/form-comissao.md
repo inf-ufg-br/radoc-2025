@@ -8,6 +8,7 @@ O docente pode relatar suas DIFICULDADES sobre o RADOC/SICAD+, ou apresentar SUG
 |Nome|E-Mail|
 |-|-|
 |ADAILTON FERREIRA DE ARAUJO|adailton@ufg.br|
+|ADRIANA SILVEIRA DE SOUZA|adriana.silveira@ufg.br|
 |ALDO ANDRE DIAZ SALAZAR|aldo.diaz@ufg.br|
 |ANA CLAUDIA BASTOS LOUREIRO MONÇÃO|acbloureiro@ufg.br|
 |ANTONIO CARLOS DE OLIVEIRA JUNIOR|antoniojr@ufg.br|
@@ -20,12 +21,12 @@ O docente pode relatar suas DIFICULDADES sobre o RADOC/SICAD+, ou apresentar SUG
 |GUSTAVO TEODORO LAUREANO|gustavolaureano@ufg.br|
 |JACSON RODRIGUES BARBOSA|jacson_rodrigues@ufg.br|
 |JULIANA PEREIRA DE SOUZA ZINADER|juliana_souza@ufg.br|
-|JULLIANO ROSA NASCIMENTO|jullianonascimento@ufg.br|
-|LEIZER DE LIMA PINTO|leizer@ufg.br|
 |LUCAS ARAUJO PEREIRA|apereiral@ufg.br|
 |MARCIA RODRIGUES CAPPELLE SANTANA|mcappelle@ufg.br|
 |NIVALDO PEREIRA DE MORAIS JUNIOR|nivaldomorais@ufg.br|
+|RENATO BULCÃO|rbulcao@ufg.br|
 |SAVIO SALVARINO TELES DE OLIVEIRA|savioteles@ufg.br|
 |VINICIUS DA CUNHA MARTINS BORGES|vcmborges@ufg.br|
+|WANDERLEY ALENCAR|wanderleyalencar@ufg.br|
 
 Fim &#9997;
