@@ -1,4 +1,4 @@
-## Comissão RADOC 2025 &#x27FC; Pessoas: Composição
+## Comissão RADOC 2026 &#x27FC; Pessoas: Composição
 
 ### Membros
 ADAILTON FERREIRA DE ARAUJO<br>
