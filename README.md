@@ -13,6 +13,6 @@
 
 &#x261B; Data limite: <ins>07/Nov/2026</ins>
 
-###### *by [Comissão INF/UFG para o RADOC 2025](./doc/x-index.md#comissão-radoc-2026)* [^2]
+###### *by [Comissão INF/UFG para o RADOC 2026](./doc/x-index.md#comissão-radoc-2025)* [^2]
 [^1]: **SICAD+** é o software que substitui o SICAD (Sistema de Consulta de Atividades Docentes).
 [^2]: A **Comissão RADOC 2025** foi designada pelo INF/UFG para apoiar os docentes da unidade acadêmica na elaboração do RADOC, pertinente às tarefas desempenhas em 2026.
